@@ -76,7 +76,7 @@ SELECT * FROM Roles_Privileges;
 
 SELECT name FROM "Privileges" WHERE id in (SELECT p_id FROM Roles_Privileges WHERE r_id=(SELECT id FROM Roles WHERE name='guest'));
 
-
+--add a comment here by jingx @ 20090319
 
 
 
