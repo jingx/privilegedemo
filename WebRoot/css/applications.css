@@ -1,0 +1,20 @@
+li{
+	list-style: none;
+}
+
+body#assign_privileges{
+	
+	
+}
+
+body#assign_privileges div#framework{
+	height:200px;
+}
+
+body#assign_privileges div#framework div#roles{
+	float:left;
+}
+
+body#assign_privileges div#framework div#privileges{
+	float:left;
+}
