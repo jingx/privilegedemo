@@ -12,9 +12,9 @@ body#assign_privileges div#framework{
 }
 
 body#assign_privileges div#framework div#roles{
-	float:left;
+	float:right;
 }
 
 body#assign_privileges div#framework div#privileges{
-	float:left;
+	float:right;
 }
